@@ -23,9 +23,9 @@
        'activation': 'logistic', 'tanh'
        'alpha': 0.0001, 0.0005, 0.001, 0.0015, 0.002
 
-*CRM_ALL_Reproduce_Notebook.ipynb is used to reproduce 10 StratifiedKFold for Single candidate and create ANN Model on CRM-ALL Dataset
+*CRM_ALL_Reproduce_Notebook.ipynb is used to reproduce our study for Single candidate on CRM-ALL Dataset
 
-*CMS_ALL_Reproduce_Notebook.ipynb is used to reproduce 10 StratifiedKFold for Single candidate and create ANN Model on CMS-ALL Dataset
+*CMS_ALL_Reproduce_Notebook.ipynb is used to reproduce our study for Single candidate on CMS-ALL Dataset
 
 *Top_10_Results_with_Splits.xlsx file consists top 10 results for all datasets with split scores.
 
