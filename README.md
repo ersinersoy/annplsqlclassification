@@ -5,6 +5,8 @@ CMS_ALL_Reproduce_Notebook.ipynb is used to reproduce 10 StratifiedKFold for Sin
 
 CRM_ALL_Reproduce_Notebook.ipynb is used to reproduce 10 StratifiedKFold for Single candidate on CRM-ALL Dataset
 
+Top_10_Results_with_Splits.xlsx file consists top 10 results for all datasets with split scores.
+
 All datasets(14 files) are shared as pickle dump,
 
     *CMS_ALL_Dataset_x.p
