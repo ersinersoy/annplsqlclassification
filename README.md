@@ -1,7 +1,7 @@
 # Using Artificial Neural Networks to Provide Guidance in Extending PL/SQL Programs
 
 
-*Our Study is performed using GridSearchCV. Code of our study is shown on CRM_ALL_Part2.ipynb for hyperparameters below,
+*Our Study is performed using Scikit-Learn-GridSearchCV. Code of our study is shown on CRM_ALL_Part2.ipynb for hyperparameters below, 
 
       'hidden_layer_sizes': 
         (50, 50),
