@@ -1,5 +1,7 @@
-# sqjournal
-Our Study is performed using GridSearchCV. Sample code of our study is shown on CRM_ALL_Part2_Sample.ipynb. 
+# Using Artificial Neural Networks to Provide Guidance in Extending PL/SQL Programs
+
+
+Our Study is performed using GridSearchCV. Code of our study is shown on CRM_ALL_Part2_Sample.ipynb. 
 
 CMS_ALL_Reproduce_Notebook.ipynb is used to reproduce 10 StratifiedKFold for Single candidate on CMS-ALL Dataset
 
