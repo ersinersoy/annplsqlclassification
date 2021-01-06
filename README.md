@@ -4,7 +4,7 @@ This project involves the creation of an artificial neural network model to auto
 
 This repository includes executable Python scripts in the form of Jupiter notebooks for creating the model, optimizing the hyperparameters of the model via grid search, training and validating the model. It also includes a set of datasets used for training and validating the model as well as the obtained results.
 
-Grid search for optimizing the hyperparameters is performed by using the *Scikit-Learn-GridSearchCV* module. The corresponding code for one of the optimized parameter sets is shown on *CRM_ALL_Part2.ipynb* file, 
+Grid search for optimizing the hyperparameters is performed by using the *Scikit-Learn-GridSearchCV* module. The corresponding code for one of the optimized parameter sets (as listed below) is provided in *CRM_ALL_Part2.ipynb*. 
 
       'hidden_layer_sizes': 
         (50, 50),
