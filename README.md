@@ -4,7 +4,7 @@ This project involves the creation of an artificial neural network model to auto
 
 This repository includes executable Python scripts in the form of Jupiter notebooks for creating the model, optimizing the hyperparameters of the model via grid search, training and validating the model. It also includes a set of datasets used for training and validating the model as well as the obtained results.
 
-*Our Study is performed using Scikit-Learn-GridSearchCV. Code of our study is shown on CRM_ALL_Part2.ipynb for hyperparameters below, 
+Grid search for optimizing the hyperparameters is performed by using the *Scikit-Learn-GridSearchCV* module. The corresponding code for one of the instances is shown on *CRM_ALL_Part2.ipynb* file, 
 
       'hidden_layer_sizes': 
         (50, 50),
@@ -26,13 +26,13 @@ This repository includes executable Python scripts in the form of Jupiter notebo
        'activation': 'logistic', 'tanh'
        'alpha': 0.0001, 0.0005, 0.001, 0.0015, 0.002
 
-*CRM_ALL_Reproduce_Notebook.ipynb is used to reproduce our study for Single candidate on CRM-ALL Dataset
+*CRM_ALL_Reproduce_Notebook.ipynb* is used to reproduce our study for Single candidate on CRM-ALL Dataset
 
-*CMS_ALL_Reproduce_Notebook.ipynb is used to reproduce our study for Single candidate on CMS-ALL Dataset
+*CMS_ALL_Reproduce_Notebook.ipynb* is used to reproduce our study for Single candidate on CMS-ALL Dataset
 
-*Top_10_Results_with_Splits.xlsx file consists top 10 results for all datasets with split scores.
+*Top_10_Results_with_Splits.xlsx* includes top 10 results for all datasets with split scores.
 
-*All datasets(14 files) are shared as pickle dump,
+All datasets (14 files) are shared as pickle dump with the filenames listed as follows,
 
     *CMS_ALL_Dataset_x.p
     *CMS_ALL_Dataset_y.p
