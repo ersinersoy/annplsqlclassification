@@ -1,6 +1,8 @@
 # Using Artificial Neural Networks to Provide Guidance in Extending PL/SQL Programs
 
-This project involves the creation of an artificial neural network model to automatically predict the correct placement of a new PL/SQL object among one of the existing schemas. The model uses dependencies among the software and database objects as features for this training. Then, given a new object and the list of other objects it uses, the network can predict the schema, where the object should be included. The repository includes executable Python scripts in the form of Jupiter notebooks for the creating of the model, optimizing the hyperparameters of the model via grid search, as well as a set of datasets used for training and validating the model.
+This project involves the creation of an artificial neural network model to automatically predict the correct placement of a new PL/SQL object among one of the existing schemas. The model uses dependencies among the software and database objects as features for training. Then, given a new object and the list of other objects it uses, the network can predict the schema, where the object should be included. 
+
+This repository includes executable Python scripts in the form of Jupiter notebooks for creating the model, optimizing the hyperparameters of the model via grid search, training and validating the model. It also includes a set of datasets used for training and validating the model as well as the obtained results.
 
 *Our Study is performed using Scikit-Learn-GridSearchCV. Code of our study is shown on CRM_ALL_Part2.ipynb for hyperparameters below, 
 
