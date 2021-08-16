@@ -57,10 +57,10 @@ Please find Python and used python libraries versions in this study below,
 
 - Python Libraries,
 
-- *The pickle version is 4.0.
-- *The numpy version is 1.13.3.
-- *The scikit-learn version is 0.19.1.
-- *The pandas version is 0.20.3.
+      - *The pickle version is 4.0.
+      - *The numpy version is 1.13.3.
+      - *The scikit-learn version is 0.19.1.
+      - *The pandas version is 0.20.3.
 
 # How To Run
 1. Install anaconda (It will install all necessary tools and libraries for you)
