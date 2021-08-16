@@ -49,7 +49,7 @@ All datasets (14 files) are shared as pickle dump with the filenames listed as f
 - *CRM_TVPF_Dataset_x.p* 
 - *CRM_TVPF_Dataset_y.p*
 
-# About Python and Python Libraries Versions Used in this Study
+# About Python and Python Library Versions Used in this Study
 
 Please find Python and used python libraries versions in this study below,
 
