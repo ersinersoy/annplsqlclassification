@@ -64,4 +64,6 @@ All datasets (14 files) are shared as pickle dump with the filenames listed as f
 1. Install anaconda (It will install all the necessary tools and libraries for you)
       https://www.anaconda.com/products/individual
 2. Download all the files on github to a local folder
-3. Type "jupyter notebook" in command line in the same folder
+3. Run "Anaconda Prompt (Anadonda3)"
+4. cd the local folder
+5. Type "jupyter notebook" in command line
