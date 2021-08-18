@@ -49,21 +49,19 @@ All datasets (14 files) are shared as pickle dump with the filenames listed as f
 - *CRM_TVPF_Dataset_x.p* 
 - *CRM_TVPF_Dataset_y.p*
 
-# About Python and Python Library Versions Used in this Study
-
-Please find Python and used python libraries versions in this study below,
+# Environment and Setup
 
 - *The Python version is 3.6.3.
 
-- Python Libraries,
+- Employed Python Libraries:
 
-      - *The pickle version is 4.0.
-      - *The numpy version is 1.13.3.
-      - *The scikit-learn version is 0.19.1.
-      - *The pandas version is 0.20.3.
+      - *Pickle version is 4.0.
+      - *Numpy version is 1.13.3.
+      - *Scikit-learn version is 0.19.1.
+      - *Pandas version is 0.20.3.
 
 # How To Run
-1. Install anaconda (It will install all necessary tools and libraries for you)
+1. Install anaconda (It will install all the necessary tools and libraries for you)
       https://www.anaconda.com/products/individual
-2. Download all the files on github to your local storage
-3. Type "jupyter notebook" in command line when same path with files
+2. Download all the files on github to a local folder
+3. Type "jupyter notebook" in command line in the same folder
