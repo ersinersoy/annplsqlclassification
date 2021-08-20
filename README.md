@@ -65,5 +65,5 @@ All datasets (14 files) are shared as pickle dump with the filenames listed as f
       https://www.anaconda.com/products/individual
 2. Download all the files on github to a local folder
 3. Run "Anaconda Prompt (Anadonda3)"
-4. Open a command line prompt and go to the local folder where the project files are downloaded 
+4. Go to the local folder where the project files are downloaded 
 5. Type "jupyter notebook" in the command line
